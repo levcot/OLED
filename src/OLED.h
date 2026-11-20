@@ -1,6 +1,6 @@
 
-#ifndef IR_H
-#define IR_H
+#ifndef OLED_H
+#define OLED_H
 
 #include <Arduino.h>
 
